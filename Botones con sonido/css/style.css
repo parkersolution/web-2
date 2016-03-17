@@ -1,0 +1,38 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Open Sans", sans-serif; }
+
+h1, h2, h4, nav li a {
+  font-family: <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'> }
+
+h2 {
+  margin-top: 80px;
+  font-size: 48px; 
+  margin-left: 30px;
+}
+.nav-container {
+  background-color: #ffff00;
+  width: 100%;
+  position: fixed;
+  left: 0px; }
+
+nav {
+  text-align: center;
+  width: 640px;
+  margin: 0px auto; }
+  
+  nav li {
+    width: 24%;
+    display: inline-block; }
+    nav li a {
+      font-size: 16px;
+      color: BLACK; }
+   
+section {
+  padding-top: 120px;
+  height: 100px;
+  width: 90%; }
+  section .content {
+    margin: -25px auto;
+    max-width: 120px; }

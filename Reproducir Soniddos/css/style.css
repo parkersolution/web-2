@@ -1,0 +1,29 @@
+
+body{
+  background-color: #DB7093;
+  text-align: center;
+  col
+  color:black;
+  font-size:21px;
+  overflow:hidden;
+}
+#content{
+  position:absolute;
+  left:30%;top:50%;  
+ 
+  white-space: nowrap;
+  width:300px;
+}
+#content div{  position:absolute;   font-family:habana;}
+
+
+
+
+
+
+---------
+
+
+  
+
+
